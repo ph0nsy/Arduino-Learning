@@ -76,8 +76,6 @@ Find the relationship between potentiometer value (0-1023) and LED value (0-255)
 |![Slope](assets/potentiometer_slope_diagram.png)|
 | Slope for potentiometer values. | 
 
-## 3. A
-
 ## Special Thanks
 
 - Paul McWhorter's [_New Arduino Tutorials_](https://www.youtube.com/playlist?list=PLGs0VKk2DiYw-L-RibttcvK-WBZm8WLEP) YouTube series.
