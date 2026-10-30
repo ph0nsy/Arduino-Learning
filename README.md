@@ -5,17 +5,13 @@ I'm using Git history to document the process, so jump to any of the documented 
 
 [_Explore the commit history_](https://github.com/ph0nsy/Arduino-Learning/commits/main)
 
-## Projects
-
-### 1. Binary counter
+## 1. Basics - Binary counter
 
 _[View Commit](https://github.com/ph0nsy/Arduino-Learning/tree/c3ec58170c44292dec32c15b78eebdbdbf204bd0)_
 
-A first step into digital outputs and representing numbers (up to 4 bits) using LEDs.
-
 ### 1.1. Summary
 
-Taken advantage of binary numbers to make a counter for numbers from 0 to 15 — 4 bits, one per LED, representing 1 byte.
+Takes advantage of binary numbers to make a counter for numbers from 0 to 15 — 4 bits, one per LED, representing 1 byte.
 
 For example, number 11:
 
