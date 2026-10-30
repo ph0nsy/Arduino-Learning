@@ -1,8 +1,17 @@
 # Arduino Learning
 
-## 1. Basics - Binary counter
+This repository is where I experiment with Arduino, learning the fundamentals of working with hardware and build things to understand how they work in practice.
+I'm using Git history to document the process, so jump to any of the documented commits (or a random one, whatever floats your boat) to check how it was implemented.
 
-Commit: _[Commit_No](https://github.com/ph0nsy/Arduino-Learning/tree/c3ec58170c44292dec32c15b78eebdbdbf204bd0)_
+[_Explore the commit history_](https://github.com/ph0nsy/Arduino-Learning/commits/main)
+
+## Projects
+
+### 1. Binary counter
+
+_[View Commit](https://github.com/ph0nsy/Arduino-Learning/tree/c3ec58170c44292dec32c15b78eebdbdbf204bd0)_
+
+A first step into digital outputs and representing numbers (up to 4 bits) using LEDs.
 
 ### 1.1. Summary
 
@@ -35,6 +44,8 @@ For example, number 11:
 | Ohm's Law illustrated. | 
 
 ## 2. Potentiometers - Dimmable LED
+
+_[View `potentiometer` Branch](https://github.com/ph0nsy/Arduino-Learning/tree/potentiometer)_
 
 ### 2.1. Summary
 
