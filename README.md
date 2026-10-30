@@ -5,43 +5,11 @@ I'm using Git history to document the process, so jump to any of the documented 
 
 [_Explore the commit history_](https://github.com/ph0nsy/Arduino-Learning/commits/main)
 
-## Projects
+_[Go to `main` Branch](https://github.com/ph0nsy/Arduino-Learning/tree/main)_
 
-### 1. Binary counter
+## 1. Binary counter
 
 _[View Commit](https://github.com/ph0nsy/Arduino-Learning/tree/c3ec58170c44292dec32c15b78eebdbdbf204bd0)_
-
-A first step into digital outputs and representing numbers (up to 4 bits) using LEDs.
-
-### 1.1. Summary
-
-Taken advantage of binary numbers to make a counter for numbers from 0 to 15 — 4 bits, one per LED, representing 1 byte.
-
-For example, number 11:
-
-| Bit 3 | Bit 2 | Bit 1  | Bit 0  |
-|:-----:|:-----:|:------:|:------:|
-| Pin 8 | Pin 9 | Pin 10 | Pin 11 |
-| HIGH  |  LOW  |  HIGH  |  HIGH  |
-
-### 1.2. Implementation
-
-||
-|:---:|
-|![Board](assets/board_picture_01.png)|
-| Picture for board set up. | 
-
-||
-|:---:|
-|![Diagram](assets/led_diagram.png)|
-| Diagram for simple _LED_ circuit. |
-
-### 1.3. Learnt on this section
-
-||
-|:---:|
-|![Ohm's Law](assets/ohm_law.png)|
-| Ohm's Law illustrated. | 
 
 ## 2. Potentiometers - Dimmable LED
 
