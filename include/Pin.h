@@ -1,11 +1,10 @@
-struct Pin {
-  int number;
-  int mode;
-  bool bAnalog;
+#define MAX_ANALOG 255
 
-  Pin(int _num, int _mod, bool _bA = false){
-    number = _num;
-    mode = _mod;
-    bAnalog = _bA;
-  }
+struct Pin {
+  int m_number;
+  int m_mode;
+
+  Pin(int _num, int _mod)
+  : m_number(_num), m_mode(_mod)
+  {}
 };
